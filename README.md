@@ -1,2 +1,2 @@
-# arch-linux-setup
-Archをぶち込みたい、そこのあなたへ。
+- [日本語](https://github.com/kuri-sun/arch-linux-setup/blob/main/setup_ja.md)
+- [English](https://github.com/kuri-sun/arch-linux-setup/blob/main/setup_en.md)
